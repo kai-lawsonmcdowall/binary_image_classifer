@@ -1,0 +1,8 @@
+name: binary_image_classifier
+
+dependencies: 
+- python=3.8.8
+- numpy
+- scikit-learn
+- tensorflow=2.5.0
+- keras=

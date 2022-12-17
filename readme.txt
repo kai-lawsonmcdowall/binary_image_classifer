@@ -9,3 +9,5 @@ convolutional 2D layer with 16 filters, a kernel of 3x3, the input size as our i
 loss function: binary crossentropy (generally used for binary classification tasks) optimization function: RMSProp (sensible alternative to adam as it auto-tunes the learning rate, however may switch over to ADAM as it may be perform better) train for 15 epochs
 
 as of the 9th October, I'll only created the architecture, and haven't run it through it's paces, will do so once I label and preprocess some data.
+
+As of the 17th December, it's working, but not well, will look into optimizing shortly.
